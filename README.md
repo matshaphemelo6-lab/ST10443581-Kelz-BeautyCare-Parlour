@@ -116,4 +116,76 @@ this project is a responsive website designed using html and css. it includes:
   Mobile view
   -<img width="720" height="1540" alt="image" src="https://github.com/user-attachments/assets/07deb9ab-2d19-4c89-8be0-53e7d299e26a" />
   
+Part3
+This is hwat was improved in this section or part of the POE
+1. Improved Visual Design
+-More consistent colors and spacing
+-Cleaner layout across all pages
+-Better font sizes for readability
+-Modern, professional look
+
+2. Better Navigation
+-The navigation bar now works smoothly on all pages
+-Page links are properly connected
+-User can move around the site easily
+
+3. Mobile-Responsive Layout
+-The new website looks better on phones and tablets
+-Images resize correctly
+-Text no longer overlaps on small screens
+
+4. Clearer Page Structure
+-Proper use of headings (H1, H2, H3)
+-Better organised content on each page
+-Pages now follow good HTML structure
+
+New Features That Were Added
+1. JavaScript Lightbox Gallery
+-A brand-new gallery pop-up viewer was added:
+-Images enlarge when clicked
+-Shows a caption
+-Includes next/previous buttons
+-Has a close button
+
+2. Enquiry Form With Validation
+The new enquiry page has:
+Full name, email, phone, message, and service selection
+Required fields
+Email and phone validation
+Error messages
+Submit button using mailto:
+This makes the form functional and user-friendly.
+
+3. Embedded Location Map
+A Google Map embed was added showing the salon location.
+This improves usability and increases marks for functionality.
+
+4. JavaScript Accordion (Services Page)
+Clicking a service opens a dropdown description
+Only one section opens at a time
+Improves readability and interactivity
+
+5. JavaScript Search Filter
+Users can type to search for services
+List updates instantly
+Counts as dynamic content for your marks
+
+6. SEO Improvements
+-Added across all pages:
+-Title tags
+-Meta descriptions
+-Alt text on images
+-Header structure (H1, H2)
+
+REFERENCES
+W3Schools (2025) HTML, CSS and JavaScript tutorials. Available at: https://www.w3schools.com
+ (Accessed: 08 November 2025).
+ MDN Web Docs (2025) JavaScript guide. Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+ (Accessed:  29 September 2025).
+ Anon., n.d. [Online] 
+Available at: https://www.w3schools.com/tags/ref_byfunc.asp
+stack, b., 2025. BrowseStack. [Online] 
+Available at: https://www.browserstack.com/guide/build-a-website-using-html-css
+[Accessed 28 August 2025].
+
 
