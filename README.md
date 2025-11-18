@@ -188,4 +188,6 @@ stack, b., 2025. BrowseStack. [Online]
 Available at: https://www.browserstack.com/guide/build-a-website-using-html-css
 [Accessed 28 August 2025].
 
+https://github.com/matshaphemelo6-lab/ST10443581-Kelz-BeautyCare-Parlour.git
+
 
